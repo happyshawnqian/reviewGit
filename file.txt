@@ -1,4 +1,3 @@
 change to commit
 has not been commited yet
 master its the way you think
-progress to new commit with new features
